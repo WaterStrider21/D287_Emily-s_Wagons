@@ -1,7 +1,4 @@
-# WESTERN GOVERNORS UNIVERSITY
-
 ## Emily's Notes:
-A. I cloned the repository to my local file and uploaded to IntelliJ
 
 B. I added the README2.md file
 
@@ -94,14 +91,5 @@ Lines 42-52
 I. -Parttest.java 
 Lines 159-186 
 added two J unit test methods GetAndSetMin  & GetAndSetMax
-
-//remove unused code from InHousePart.java
-//remove  unused code from outsourcedpart.java
-//delete extra validators that are unused
-
-
-
-
-
   
 
